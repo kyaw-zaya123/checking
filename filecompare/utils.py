@@ -49,7 +49,6 @@ def get_stopwords_for_text(text):
         LANGUAGE_MAP = {
             'en': 'english',
             'ru': 'russian',
-            'mm': 'myanmar'
             # Add more mappings as needed
         }
         
